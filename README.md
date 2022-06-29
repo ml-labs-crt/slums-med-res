@@ -1,6 +1,6 @@
 ## Mapping Slums with Medium Resolution Satellite Imagery: a Comparative Analysis of Multi-Spectral Data and Grey-level Co-occurrence Matrix Techniques
 
-This repo contains the code to reproduce the results obtained on the paper "Mapping Slums with Medium Resolution Satellite Imagery: a Comparative Analysis of Multi-Spectral Data and Grey-level Co-occurrence Matrix Techniques" accepted at the 3rd Workshop on Artificial Intelligence for Social Good (IJCAI 2021). 
+This repo contains the code to reproduce the results obtained on the paper "[Mapping Slums with Medium Resolution Satellite Imagery: a Comparative Analysis of Multi-Spectral Data and Grey-level Co-occurrence Matrix Techniques](https://arxiv.org/abs/2106.11395)" accepted at the 3rd Workshop on Artificial Intelligence for Social Good (IJCAI 2021). 
 
 ## Files
 
