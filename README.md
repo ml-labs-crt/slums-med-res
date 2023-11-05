@@ -7,7 +7,7 @@ This repo contains the code to reproduce the results obtained on the paper "[Map
 - ```GLCM+CCF_majorityNonSlum.R``` and ```GLCM+CCF_majoritySlum.R``` have the code to create the Grey-level Co-occurrence Matrix features and classify the images using Canonical Correlation Forests. 
 - ```Spectral+CCF__majorityNonSlum.R``` and ```Spectral+CCF_majoritySlum.R``` have the code to classify the images using multi-spectral data and Canonical Correlation Forests. 
 
-## Cite this work
+## Citation
 
 ```
 @misc{demattos2021mapping,
@@ -20,9 +20,9 @@ This repo contains the code to reproduce the results obtained on the paper "[Map
 }
 ```
 
-## Dataset 
+## Datas 
 
-The dataset used in this study is available at: [https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm](https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm).
+The data set used in this study is available at: [https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm](https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm).
 
 If using the dataset, please cite:
 
