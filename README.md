@@ -20,7 +20,7 @@ This repo contains the code to reproduce the results obtained on the paper "[Map
 }
 ```
 
-## Datas 
+## Data
 
 The data set used in this study is available at: [https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm](https://drive.google.com/drive/folders/1yhDwR4zyPQO78x040uGCPqFarTDQ3yQm).
 
